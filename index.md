@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfolio
 
-You can use the [editor on GitHub](https://github.com/austinorr9/austinorr9.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Austin Orr, I am aspiring computer programmer. 
+Throughout my years of school, work, and hobbies I have acquired a lot of different skills from different walks of life. Below are three artifacts that I have created in different classes using said skills, each falls under a different category which are Software Design and Engineering, Algorithm and Data Structures, and Databases respectively, following is the language each artifact is written in and the artifact itself.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Code Showcase
+```
+#Code Review
+[Link](https://drive.google.com/file/d/1W_1s19thih3UZ1sFLALecX51nUVOQRg7/view?usp=sharing)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Software Design and Engineering
+##C++
+Milestone Two
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#Algorthim and Data Structures
+##C++
+Milestone Three
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#Databases
+##Android Studio app
+Milestone Four.zip
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+#Professinal Self-Assessment
+Professional Self-Assessment.docx
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/austinorr9/austinorr9.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
