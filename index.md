@@ -6,7 +6,7 @@ Throughout my years of school, work, and hobbies I have acquired a lot of differ
 ### Code Showcase
 ```
 #Code Review
-[Link](https://drive.google.com/file/d/1W_1s19thih3UZ1sFLALecX51nUVOQRg7/view?usp=sharing)
+[https://drive.google.com/file/d/1W_1s19thih3UZ1sFLALecX51nUVOQRg7/view?usp=sharing]
 
 
 #Software Design and Engineering
